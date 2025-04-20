@@ -8,8 +8,8 @@ This project is a **multi-agent system** designed to automate the discovery, pro
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/research-summarizer.git
-cd research-summarizer
+git clone https://github.com/jangalapalleramesh/Research_Paper_Summarizer.git
+cd Research_Paper_Summarizer
 ```
 
 ### 2. Install Python dependencies
@@ -147,6 +147,6 @@ The agents are orchestrated through FastAPI endpoints, triggered either individu
 
 ## 📫 Contact
 
-*Created by [Venkata Ramesh Jangalapalle]*  
-*Email: venkataramesh255@gmail.com *  
+*Created by Venkata Ramesh Jangalapalle*  
+*Email: ramesh_jangalapalle@srmap.edu.in*  
 *GitHub: https://github.com/jangalapalleramesh/ *
