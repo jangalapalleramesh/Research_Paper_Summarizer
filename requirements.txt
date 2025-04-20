@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+PyMuPDF
+gTTS
+requests
+scikit-learn
+python-multipart
